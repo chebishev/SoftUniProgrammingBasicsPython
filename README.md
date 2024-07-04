@@ -7,7 +7,7 @@ Founded in 2013, SoftUni is rapidly becoming a market leader and today organizes
 SoftUni works directly with over 100 technology companies and has an active community of over 300 000 people.
 
 # Video Solutions:
-- Programming Basics Online Example Exam 2: To be added
+- Programming Basics Online Example Exam 2: https://youtu.be/yAt_M9T-WoA
 - Programming Basics Online Example Exam 3 pt1: https://youtu.be/YjKKItBm4T4
 - Programming Basics Online Example Exam 3 pt2: https://youtu.be/leUArU_1qnM
 - Programming Basics Online Example Exam 5: https://youtu.be/q5341ii8xUY
